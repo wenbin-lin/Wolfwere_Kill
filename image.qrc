@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.jpg</file>
+        <file>image/werewolf_kill.ico</file>
+        <file>image/avatar.jpg</file>
+    </qresource>
+</RCC>
